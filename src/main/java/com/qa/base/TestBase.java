@@ -29,7 +29,7 @@ public class TestBase {
 			 prop = new Properties();
 
 			FileInputStream ip = new FileInputStream(
-					"C:\\TestLeaf\\eclipse-workspace\\restapi\\src\\main\\java\\com\\qa\\configuration\\config.properties");
+					"C:\\test\\eclipse-workspace\\restapi\\src\\main\\java\\com\\qa\\configuration\\config.properties");
 			prop.load(ip);
 			
 
